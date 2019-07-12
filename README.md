@@ -4,8 +4,5 @@ Visual Studio Code for Salesforce Development - Set up and integrate the recomme
 Git and GitHub Basics - Learn about version control systems and practice using Git and GitHub.
 
 ***
-branch-1207
-***
-***
 branch-1207-1
 ***
