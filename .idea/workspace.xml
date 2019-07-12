@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="174519ab-5b2f-4379-8c3e-8eae84cab026" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-project.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +20,13 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -36,13 +47,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/dictionaries/Ivo_Dimitrov.xml" />
+        <option value="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/.gitignore" />
       </list>
     </option>
   </component>
@@ -58,6 +63,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -68,30 +75,13 @@
             <path>
               <item name="trailhead-projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="trailhead-projects" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="trailhead-projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="trailhead-projects" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name=".vscode" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="trailhead-projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="trailhead-projects" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="GitAndGithubBasics" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="trailhead-projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="trailhead-projects" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="MutualFundExplorer" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ContinuousIntegrationUsingSalesforceDX" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -99,6 +89,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivo.Dimitrov\trailhead-projects\ContinuousIntegrationUsingSalesforceDX" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562943755890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Salesforce DX project.">
+      <created>1562943837137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562943837137</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -148,8 +150,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-200" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20255864" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -251,17 +254,11 @@
         <state relative-caret-position="-1071" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-travisci/.circleci/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-travisci/.circleci/config.yml" />
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-travisci/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-travisci/.gitignore" />
     <entry file="file://$PROJECT_DIR$/.idea/trailhead-projects.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -272,7 +269,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-travisci/force-app/main/default/classes/myclass.cls">
+    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-travisci/force-app/main/default/classes/myclass.cls" />
+    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
