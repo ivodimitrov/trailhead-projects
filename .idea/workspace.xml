@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="174519ab-5b2f-4379-8c3e-8eae84cab026" name="Default Changelist" comment="" />
+    <list default="true" id="174519ab-5b2f-4379-8c3e-8eae84cab026" name="Default Changelist" comment="" />
     <list default="true" id="174519ab-5b2f-4379-8c3e-8eae84cab026" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-project.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +14,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -39,6 +42,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$" value="branch-1207" />
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
@@ -47,7 +51,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/.gitignore" />
       </list>
     </option>
   </component>
@@ -57,31 +60,35 @@
     <option name="width" value="1552" />
     <option name="height" value="840" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
           <expand>
             <path>
-              <item name="trailhead-projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="trailhead-projects" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="trailhead-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trailhead-projects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="trailhead-projects" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="trailhead-projects" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="ContinuousIntegrationUsingSalesforceDX" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="force-app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562943837137</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Salesforce DX project.">
+      <created>1562943991979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562943991979</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -152,7 +166,7 @@
     <frame x="1912" y="-200" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -160,6 +174,20 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.49946696" visible="true" weight="0.31" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.31" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -180,6 +208,14 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,33 +243,6 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-travisci" />
-    </ignored-roots>
-    <MESSAGE value="More changes to the README" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/master' into branch-1207-1&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
-    <MESSAGE value="Changes to the README" />
-    <MESSAGE value="Added new directory" />
-    <MESSAGE value="Deleted empty file." />
-    <MESSAGE value="Revert &quot;Deleted empty file.&quot;&#10;&#10;This reverts commit 18fee117" />
-    <MESSAGE value="Add Salesforce DX project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Salesforce DX project." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -245,33 +254,6 @@
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/checkstyle-idea.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1071" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-travisci/.circleci/config.yml" />
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-travisci/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/.idea/trailhead-projects.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/sfdx-travisci/force-app/main/default/classes/myclass.cls" />
-    <entry file="file://$PROJECT_DIR$/ContinuousIntegrationUsingSalesforceDX/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
